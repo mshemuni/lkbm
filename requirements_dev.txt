@@ -1,0 +1,10 @@
+paramiko==3.4.1
+typing_extensions==4.12.2
+types-paramiko
+
+pytest
+pytest-cov
+mypy
+flake8
+tox
+tox-conda
